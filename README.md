@@ -1,5 +1,6 @@
 # NotMyBOFs
-BOFs with small changes and not in an archive
+BOFs with small changes and not.
+stored in an archive
 
 Taken from:
 
