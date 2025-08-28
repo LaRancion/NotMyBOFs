@@ -1,6 +1,5 @@
 # NotMyBOFs
 BOFs with small changes and not.
-stored in an archive
 
 Taken from:
 
